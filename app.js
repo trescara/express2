@@ -7,8 +7,8 @@ const instructors = require("./instructors.json")
 app.use(morgan('tiny'));
 
 // fetch("./instructors.json")
-//  .then(response => response.json())
-//  .then(json => console.log(json));
+// .then(response => response.json())
+// .then(json => console.log(json));
 
 
 
